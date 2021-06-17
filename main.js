@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
 var g = document.getElementById("displayContent");
 var f = document.getElementById("rotateScreen");
-var orientation = screen.orientation;
+//var orientation = screen.orientation;
 
 function detectOrientation() {
   //Votre code ici
